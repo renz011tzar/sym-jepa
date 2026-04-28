@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.pkl
+*.pt
+*.ckpt
+logs/
+checkpoints/
+data/
+data_lewm/
+.DS_Store
+wandb/
